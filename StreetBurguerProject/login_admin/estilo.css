@@ -1,0 +1,97 @@
+body {
+  background-color: #00ffff;
+}
+
+.botao{
+	width: 300px;
+height: 39px;
+background-color: #121212;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 581px;
+}
+.usuario{
+	width: 266px;
+height: 30px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 630px;
+top: 307px;
+}
+.user{
+	width: 64px;
+height: 20px;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 740px;
+top: 264px;
+}
+.pass{
+	width: 53px;
+height: 19px;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 745px;
+top: 368px;
+}
+.senha{
+	width: 266px;
+height: 30px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 630px;
+top: 413px;
+}
+.login{
+	width: 173px;
+height: 30px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 695px;
+top: 172px;
+}
+.burger{
+	width: 83px;
+height: 67px;
+position: absolute;
+left: 550px;
+top: 105px;
+}
+.bb{
+	width: 120px;
+height: 67px;
+position: absolute;
+left: 910px;
+top: 105px;
+}

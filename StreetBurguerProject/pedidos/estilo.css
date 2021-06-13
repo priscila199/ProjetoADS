@@ -1,0 +1,810 @@
+body {
+  background-color: #00ffff;
+}
+.ped{
+width: 277px;
+height: 31px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 650px;
+top: 10px;
+}
+.rou1{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 340px;
+top: 76px;
+}
+.mes1{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 350px;
+top: 83px;	
+}
+.mesa1{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 420px;
+top: 100px;	
+}
+.cli1{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 550px;
+top: 83px;	
+}
+.cliente1{
+	width: 101px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 100px;	
+}
+.itens1{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 350px;
+top: 150px;	
+}
+.v1{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 660px;
+top: 190px;
+}
+.rou2{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 76px;
+}
+.mes2{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 820px;
+top: 83px;	
+}
+.mesa2{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 890px;
+top: 100px;	
+}
+.cli2{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 1000px;
+top: 83px;	
+}
+.cliente2{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1070px;
+top: 100px;	
+}
+.itens2{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 820px;
+top: 150px;	
+}
+.v2{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1120px;
+top: 190px;
+}
+.rou3{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 340px;
+top: 264px;
+}
+.mes3{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 350px;
+top: 270px;	
+}
+.mesa3{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 420px;
+top: 290px;	
+}
+.cli3{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 550px;
+top: 270px;	
+}
+.cliente3{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 290px;	
+}
+.itens3{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 350px;
+top: 340px;	
+}
+.v3{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 660px;
+top: 380px;
+}
+.rou4{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 264px;
+}
+.mes4{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 820px;
+top: 270px;	
+}
+.mesa4{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 890px;
+top: 290px;	
+}
+.cli4{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 1000px;
+top: 270px;	
+}
+.cliente4{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1070px;
+top: 290px;	
+}
+.itens4{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 820px;
+top: 340px;	
+}
+.v4{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1120px;
+top: 380px;
+}
+.rou5{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 340px;
+top: 452px;
+}
+.mes5{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 350px;
+top: 457px;	
+}
+.mesa5{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 420px;
+top: 480px;	
+}
+.cli5{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 550px;
+top: 457px;	
+}
+.cliente5{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 480px;	
+}
+.itens5{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 350px;
+top: 530px;	
+}
+.v5{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 660px;
+top: 570px;
+}
+.rou6{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 452px;
+}
+.mes6{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 820px;
+top: 457px;	
+}
+.mesa6{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 890px;
+top: 480px;	
+}
+.cli6{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 1000px;
+top: 457px;	
+}
+.cliente6{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1070px;
+top: 480px;	
+}
+.itens6{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 820px;
+top: 530px;	
+}
+.v6{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1120px;
+top: 570px;
+}
+.rou7{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 340px;
+top: 640px;
+}
+.mes7{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 350px;
+top: 644px;	
+}
+.mesa7{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 420px;
+top: 670px;	
+}
+.cli7{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 550px;
+top: 644px;	
+}
+.cliente7{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 670px;	
+}
+.itens7{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 350px;
+top: 720px;	
+}
+.v7{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 660px;
+top: 760px;
+}
+.rou8{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 640px;
+}
+.mes8{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 820px;
+top: 644px;	
+}
+.mesa8{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 890px;
+top: 670px;	
+}
+.cli8{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 1000px;
+top: 644px;	
+}
+.cliente8{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1070px;
+top: 670px;	
+}
+.itens8{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 820px;
+top: 720px;	
+}
+.v8{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1120px;
+top: 760px;
+}
+.rou9{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 340px;
+top: 828px;
+}
+.mes9{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 350px;
+top: 831px;	
+}
+.mesa9{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 420px;
+top: 860px;	
+}
+.cli9{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 550px;
+top: 831px;	
+}
+.cliente9{
+	width: 108px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 620px;
+top: 860px;	
+}
+.itens9{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 350px;
+top: 910px;	
+}
+.v9{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 660px;
+top: 950px;
+}
+.rou10{
+width: 453px;
+height: 175px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 828px;
+}
+.mes10{
+	width: 72px;
+height: 64px;
+position: absolute;
+left: 820px;
+top: 831px;	
+}
+.mesa10{
+	width: 96px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 890px;
+top: 860px;	
+}
+.cli10{
+	width: 67px;
+height: 64px;
+position: absolute;
+left: 1000px;
+top: 831px;	
+}
+.cliente10{
+	width: 120px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #197d00;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1070px;
+top: 860px;	
+}
+.itens10{
+	width: 200px;
+height: 33px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 820px;
+top: 910px;	
+}
+.v10{
+width: 130px;
+height: 50px;
+background-color: #ffe626;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #000000;
+text-decoration: none solid rgb(25, 125, 0);
+text-align: center;
+position: absolute;
+left: 1120px;
+top: 950px;
+}
+.volt{
+width: 160px;
+height: 48px;
+background-color: #ff0000;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 24px;
+top: 1000px;
+}
+.div-personalizada{
+/*width: 85px;
+height: 29px;*/
+font-family: Fredoka One;
+font-size: 24px;
+background-color: #02a7fa;
+background-size: cover;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+text-align: center;
+/*left: 740px;*/
+top: 104px;
+}
+.tot{
+	width: 159px;
+height: 26px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 700px;
+top: 250px;
+}
+.total{
+	width: 125px;
+height: 37px;
+font-family: Fredoka One;
+font-size: 32px;
+color: #bd0a0a;
+text-decoration: none solid rgb(189, 10, 10);
+text-align: center;
+position: absolute;
+left: 820px;
+top: 239px;
+}
+.visuliza{
+	width: 277px;
+height: 31px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 640px;
+top: 10px;
+}
+.voltar{
+	width: 149px;
+height: 50px;
+background-color: #f50000;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+top: 400px;
+}

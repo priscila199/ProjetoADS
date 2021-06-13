@@ -1,0 +1,250 @@
+body {
+  background-color: #00ffff;
+}
+.mesa{
+	width: 95px;
+height: 79px;
+position: absolute;
+left: 730px;
+top: 11px;
+}
+.mesas{
+	width: 224px;
+height: 35px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 680px;
+top: 102px;
+}
+.round1{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 540px;
+top: 165px;
+}
+.mesa1{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 605px;
+top: 160px;
+}
+.round2{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 540px;
+top: 246px;
+}
+.mesa2{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 605px;
+top: 240px;
+}
+.round3{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 540px;
+top: 327px;
+}
+.mesa3{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 605px;
+top: 320px;
+}
+.round4{
+		width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 540px;
+top: 408px;
+}
+.mesa4{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 605px;
+top: 405px;
+}
+.round5{
+		width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 540px;
+top: 489px;
+}
+.mesa5{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 605px;
+top: 485px;
+}
+.round6{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 165px;
+}
+.mesa6{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 855px;
+top: 160px;
+}
+.round7{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 246px;
+}
+.mesa7{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 855px;
+top: 240px;
+}
+.round8{
+	width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 327px;
+}
+.mesa8{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 855px;
+top: 320px;
+}
+.round9{
+		width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 408px;
+}
+.mesa9{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 855px;
+top: 405px;
+}
+.round10{
+		width: 240px;
+height: 53px;
+border-radius: 10px;
+fill: #fcfcfc;
+position: absolute;
+left: 800px;
+top: 489px;
+}
+.mesa10{
+	width: 100px;
+height: 25px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+position: absolute;
+left: 855px;
+top: 485px;
+}
+.fin{
+	width: 151px;
+height: 45px;
+background-color: #121212;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 1300px;
+top: 650px;
+}
+.voltar{
+	width: 160px;
+height: 48px;
+background-color: #ff0000;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 100px;
+top: 650px;
+}

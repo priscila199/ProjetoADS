@@ -1,0 +1,895 @@
+body {
+  background-color: #ffe626;
+  margin:  0px;
+}
+.ret{
+	width: 1519px;
+height: 67px;
+fill: #02a7fa;
+position: absolute;
+left: 0px;
+top: 0px;
+}
+.card{
+	width: 124px;
+height: 29px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+position: absolute;
+left: 740px;
+top: 109px;
+}
+.burger{
+width: 83px;
+height: 68px;
+position: absolute;
+left: 560px;
+top: 0px;
+}
+.bb{
+width: 120px;
+height: 68px;
+position: absolute;
+left: 910px;
+top: 0px;
+}
+.rou1{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 170px;
+}
+.piz{
+width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 170px;
+}
+.pizza{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 175px;
+}
+.pre1{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 210px;
+}
+.quantd1{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 245px;
+}
+.quant1{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 240px;
+}
+.valor1{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 240px;
+}
+.rou2{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 272px;
+}
+.cacho{
+	width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 272px;
+}
+.cachorro{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 277px;
+}
+.pre2{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 312px;
+}
+.quantd2{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 347px;
+}
+.quant2{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 340px;
+}
+.valor2{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 340px;
+}
+.rou3{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 374px;
+}
+.bat{
+width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 374px;
+}
+.batata{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 379px;
+}
+.pre3{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 414px;
+}
+.quantd3{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 449px;
+}
+.quant3{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 440px;
+}
+.valor3{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 440px;
+}
+.rou4{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 476px;
+}
+.ref{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 476px;
+}
+.refri{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 481px;
+}
+.pre4{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 516px;
+}
+.quantd4{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 551px;
+}
+.quant4{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 540px;
+}
+.valor4{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 540px;
+}
+.rou5{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 578px;
+}
+.mil{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 578px;
+}
+.milk{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 583px;
+}
+.pre5{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 618px;
+}
+.quantd5{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 653px;
+}
+.quant5{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 640px;
+}
+.valor5{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 640px;
+}
+.rou6{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 680px;
+}
+.ham{
+width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 680px;
+}
+.hamburguer{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 685px;
+}
+.pre6{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 720px;
+}
+.quantd6{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 755px;
+}
+.quant6{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 745px;
+}
+.valor6{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 745px;
+}
+.rou7{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 782px;
+}
+.sor{
+	width: 65px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 500px;
+top: 782px;
+}
+.sorvete{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 787px;
+}
+.pre7{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 822px;
+}
+.quantd7{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 857px;
+}
+.quant7{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 847px;
+}
+.valor7{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 847px;
+}
+.rou8{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 884px;
+}
+.ane{
+width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 884px;
+}
+.anel{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 889px;
+}
+.pre8{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 924px;
+}
+.quantd8{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 959px;
+}
+.quant8{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 949px;
+}
+.valor8{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 949px;
+}
+.rou9{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 986px;
+}
+.bal{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 986px;
+}
+.balde{
+	width: 214px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 991px;
+}
+.pre9{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1026px;
+}
+.quantd9{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1061px;
+}
+.quant9{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 1055px;
+}
+.valor9{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 1055px;
+}
+.rou10{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 1088px;
+}
+.com{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 1088px;
+}
+.combo{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1093px;
+}
+.pre10{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1128px;
+}
+.quantd10{
+	width: 230px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 15px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1163px;
+}
+.quant10{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 920px;
+top: 1160px;
+}
+.valor10{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1050px;
+top: 1160px;
+}
+.canc{
+	width: 149px;
+height: 38px;
+background-color: #f50000;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 24px;
+top: 1180px;
+}
+.fec{
+	width: 130px;
+height: 38px;
+background-color: #02a7fa;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 1350px;
+top: 1180px;
+}

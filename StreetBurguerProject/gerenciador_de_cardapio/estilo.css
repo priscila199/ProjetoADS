@@ -1,0 +1,1033 @@
+body {
+  background-color: #00ffff;
+}
+.card{
+width: 277px;
+height: 31px;
+font-family: Fredoka One;
+font-size: 24px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 650px;
+top: 10px;
+}
+.rou1{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 103px;
+}
+.piz{
+width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 103px;
+}
+.nome1{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 120px;
+}
+.nom1{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 120px;
+}
+.preco1{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 160px;
+}
+.prec1{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 160px;
+}
+.quant1{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 170px;
+}
+.valor1{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 170px;
+}
+.rou2{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 205px;
+}
+.cacho{
+	width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 205px;
+}
+.nome2{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 220px;
+}
+.nom2{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 220px;
+}
+.preco2{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 260px;
+}
+.prec2{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 260px;
+}
+.quant2{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 270px;
+}
+.valor2{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 270px;
+}
+.rou3{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 307px;
+}
+.bat{
+width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 307px;
+}
+.nome3{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 320px;
+}
+.nom3{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 320px;
+}
+.preco3{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 360px;
+}
+.prec3{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 360px;
+}
+.quant3{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 370px;
+}
+.valor3{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 370px;
+}
+.rou4{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 409px;
+}
+.ref{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 409px;
+}
+.nome4{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 420px;
+}
+.nom4{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 420px;
+}
+.preco4{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 460px;
+}
+.prec4{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 460px;
+}
+.quant4{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 470px;
+}
+.valor4{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 470px;
+}
+.rou5{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 511px;
+}
+.mil{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 511px;
+}
+.nome5{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 520px;
+}
+.nom5{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 520px;
+}
+.preco5{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 560px;
+}
+.prec5{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 560px;
+}
+.quant5{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 570px;
+}
+.valor5{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 570px;
+}
+.ham{
+width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 613px;
+}
+.sor{
+	width: 65px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 500px;
+top: 715px;
+}
+.ane{
+width: 103px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 817px;
+}
+.bal{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 919px;
+}
+.com{
+	width: 104px;
+height: 99px;
+filter: drop-shadow(0px 1px 1px rgba(0,0,0,0.2));
+position: absolute;
+left: 480px;
+top: 1021px;
+}
+.volt{
+width: 160px;
+height: 48px;
+background-color: #ff0000;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 24px;
+top: 1100px;
+}
+.fin{
+width: 151px;
+height: 45px;
+background-color: #121212;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 16px;
+color: #ffffff;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: center;
+position: absolute;
+left: 1350px;
+top: 1100px;
+}
+.rou6{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 613px;
+}
+.nome6{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 630px;
+}
+.nom6{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 630px;
+}
+.preco6{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 670px;
+}
+.prec6{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 670px;
+}
+.quant6{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 680px;
+}
+.valor6{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 680px;
+}
+.rou7{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 715px;
+}
+.nome7{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 732px;
+}
+.nom7{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 732px;
+}
+.preco7{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 770px;
+}
+.prec7{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 770px;
+}
+.quant7{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 780px;
+}
+.valor7{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 780px;
+}
+.rou8{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 817px;
+}
+.nome8{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 824px;
+}
+.nom8{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 824px;
+}
+.preco8{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 870px;
+}
+.prec8{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 870px;
+}
+.quant8{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 880px;
+}
+.valor8{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 880px;
+}
+.rou9{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 919px;
+}
+.nome9{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 936px;
+}
+.nom9{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 936px;
+}
+.preco9{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 970px;
+}
+.prec9{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 970px;
+}
+.quant9{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 980px;
+}
+.valor9{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 980px;
+}
+.rou10{
+	width: 632px;
+height: 99px;
+border-radius: 10px;
+fill: #fcfcfc;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 480px;
+top: 1021px;
+}
+.nome10{
+	width: 178px;
+height: 28px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1038px;
+}
+.nom10{
+	width: 250px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 1038px;
+}
+.preco10{
+	width: 82px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+position: absolute;
+left: 620px;
+top: 1070px;
+}
+.prec10{
+	width: 90px;
+height: 24px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #ff0000;
+text-decoration: none solid rgb(255, 0, 0);
+text-align: center;
+position: absolute;
+left: 690px;
+top: 1070px;
+}
+.quant10{
+	width: 129px;
+height: 24px;
+font-family: Fredoka One;
+font-size: 20px;
+color: #000000;
+text-decoration: none solid rgb(0, 0, 0);
+text-align: center;
+position: absolute;
+left: 910px;
+top: 1080px;
+}
+.valor10{
+	width: 40px;
+height: 22px;
+padding: 0px 8px;
+border: 1px solid #8c8c8c;
+border-radius: 4px;
+background-color: #ffffff;
+background-size: cover;
+font-family: Fredoka One;
+font-size: 14px;
+color: #121212;
+text-decoration: none solid rgb(18, 18, 18);
+text-align: center;
+position: absolute;
+left: 1040px;
+top: 1080px;
+}
